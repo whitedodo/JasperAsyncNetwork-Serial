@@ -1,0 +1,11 @@
+C:\Users\scout\source\repos\JasperSerialApp\JasperSerialApp\bin\Debug\JasperSerialApp.exe.config
+C:\Users\scout\source\repos\JasperSerialApp\JasperSerialApp\bin\Debug\JasperSerialApp.exe
+C:\Users\scout\source\repos\JasperSerialApp\JasperSerialApp\bin\Debug\JasperSerialApp.pdb
+C:\Users\scout\source\repos\JasperSerialApp\JasperSerialApp\obj\Debug\JasperSerialApp.csprojAssemblyReference.cache
+C:\Users\scout\source\repos\JasperSerialApp\JasperSerialApp\obj\Debug\JasperSerialApp.Properties.Resources.resources
+C:\Users\scout\source\repos\JasperSerialApp\JasperSerialApp\obj\Debug\JasperSerialApp.csproj.GenerateResource.cache
+C:\Users\scout\source\repos\JasperSerialApp\JasperSerialApp\obj\Debug\JasperSerialApp.exe
+C:\Users\scout\source\repos\JasperSerialApp\JasperSerialApp\obj\Debug\JasperSerialApp.pdb
+C:\Users\scout\source\repos\JasperSerialApp\JasperSerialApp\obj\Debug\JasperSerialApp.MainFrm.resources
+C:\Users\scout\source\repos\JasperSerialApp\JasperSerialApp\obj\Debug\JasperSerialApp.SerialCommunication.resources
+C:\Users\scout\source\repos\JasperSerialApp\JasperSerialApp\obj\Debug\JasperSerialApp.NetworkFrm.resources
